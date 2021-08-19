@@ -59,14 +59,8 @@ Open the application on your browser `127.0.0.1:5000`.
 
 
 ## Technology used
-[![License](https://img.shields.io/github/license/mattlisiv/one-minute-pitch-python.svg)](https://github.com/mattlisiv/one-minute-pitch-python/blob/master/LICENSE.txt)
-[![PyPI](https://img.shields.io/pypi/v/one-minute-pitch-python.svg)](https://pypi.org/project/one-minute-pitch-python/)
-[![Status](https://img.shields.io/pypi/status/one-minute-pitch-python.svg)](https://pypi.org/project/one-minute-pitch-python/)
-[![Python](https://img.shields.io/pypi/pyversions/one-minute-pitch-python.svg)](https://pypi.org/project/one-minute-pitch-python)
-[![Flask](https://img.shields.io/pypi/pyversions/one-minute-pitch-flask.svg)](https://pypi.org/project/one-minute-pitch-flask)
-[![Heroku](https://img.shields.io/pypi/pyversions/one-minute-pitch-python.svg)](https://pypi.org/project/one-minute-pitch-python)
-* [Python3.9](https://www.python.org/pypi/pyversions/one-minute-pitch-flask.svg)](https://pypi.org/project/one-minute-pitch-flask)
-* [Flask](http://flask.pocoo.org/pypi/pyversions/one-minute-pitch-flask.svg)](https://pypi.org/project/one-minute-pitch-flask)
+* [Python3.9](https://www.python.org)
+* [Flask](http://flask.pocoo.org)
 * [Heroku](https://heroku.com)
 
 
