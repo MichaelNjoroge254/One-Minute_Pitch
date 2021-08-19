@@ -36,7 +36,7 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Owiti-Charles/pitch-world.git
+  https://github.com/MichaelNjoroge254/One-MInute-Pitch.git
   ```
 2. Move to the folder and install requirements
   ```bash
@@ -65,8 +65,8 @@ Open the application on your browser `127.0.0.1:5000`.
 [![Python](https://img.shields.io/pypi/pyversions/one-minute-pitch-python.svg)](https://pypi.org/project/one-minute-pitch-python)
 [![Flask](https://img.shields.io/pypi/pyversions/one-minute-pitch-flask.svg)](https://pypi.org/project/one-minute-pitch-flask)
 [![Heroku](https://img.shields.io/pypi/pyversions/one-minute-pitch-python.svg)](https://pypi.org/project/one-minute-pitch-python)
-* [Python3.6](https://www.python.org/)
-* [Flask](http://flask.pocoo.org/)
+* [Python3.9](https://www.python.org/pypi/pyversions/one-minute-pitch-flask.svg)](https://pypi.org/project/one-minute-pitch-flask)
+* [Flask](http://flask.pocoo.org/pypi/pyversions/one-minute-pitch-flask.svg)](https://pypi.org/project/one-minute-pitch-flask)
 * [Heroku](https://heroku.com)
 
 
